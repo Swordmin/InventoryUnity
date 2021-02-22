@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<creatures>
+  <creature
+    id="0"
+    name="BoneOne"
+    >
+  </creature>
+  <creature
+    id="1"
+    name="BoneTwo"
+    >
+  </creature>
+  <creature
+    id="2"
+    name="BoneThree"
+    >
+  </creature>
+  
+</creatures>
