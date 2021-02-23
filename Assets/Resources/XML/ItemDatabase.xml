@@ -3,16 +3,19 @@
   <creature
     id="0"
     name="BoneOne"
+    spesh1 ="Fire"
     >
   </creature>
   <creature
     id="1"
     name="BoneTwo"
+    spesh1 = "Water"
     >
   </creature>
   <creature
     id="2"
     name="BoneThree"
+    spesh1 = "Eath"
     >
   </creature>
   

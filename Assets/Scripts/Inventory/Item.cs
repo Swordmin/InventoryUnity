@@ -30,6 +30,8 @@ public class Item
     }
 
     public Sprite GetSprite() => _sprite;
+    public string GetName() => createItem.name;
+    public string GetSpesh() => createItem.spesh;
 
 }
 

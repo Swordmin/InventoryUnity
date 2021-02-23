@@ -30,4 +30,7 @@ public class CreateItem
     [XmlAttribute("name")]
     public string name;
 
+    [XmlAttribute("spesh1")]
+    public string spesh;
+
 }
